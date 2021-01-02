@@ -11,9 +11,9 @@ sites:
   - name: B2B Shop
     url: https://tivents.pro
   - name: Sales API
-    url: https://salma.tivents.systems/test/v1
+    url: https://salma.tivents.systems/tests/v1
   - name: CheckIN API
-    url: https://cis.intern.tivents.de/test/v1
+    url: https://cis.intern.tivents.de/tests/v1
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
