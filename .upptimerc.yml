@@ -14,6 +14,8 @@ sites:
     url: https://salma.tivents.systems/tests/v1
   - name: CheckIN API
     url: https://cis.intern.tivents.de/tests/v1
+  - name: Info Seite
+    url: https://tivents.info
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
@@ -27,7 +29,7 @@ status-website:
       href: https://tivents.de
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  css: ".container { max-width: 1200px; }"
+  css: "body { opacity: 0.5 }"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
