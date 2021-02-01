@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2019,
-    "timeDay": 2182,
-    "timeWeek": 2134,
-    "timeMonth": 2019,
-    "timeYear": 2019,
+    "time": 2037,
+    "timeDay": 2716,
+    "timeWeek": 2276,
+    "timeMonth": 2037,
+    "timeYear": 2037,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1597,
-    "timeDay": 1327,
-    "timeWeek": 1218,
-    "timeMonth": 1597,
-    "timeYear": 1597,
+    "time": 1589,
+    "timeDay": 1278,
+    "timeWeek": 1259,
+    "timeMonth": 1589,
+    "timeYear": 1589,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 907,
-    "timeDay": 777,
-    "timeWeek": 802,
-    "timeMonth": 907,
-    "timeYear": 907,
+    "time": 902,
+    "timeDay": 729,
+    "timeWeek": 796,
+    "timeMonth": 902,
+    "timeYear": 902,
     "dailyMinutesDown": {
       "2021-01-02": 41
     }
@@ -61,16 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/cis.intern.tivents.de",
     "slug": "check-in-api",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
-    "time": 689,
-    "timeDay": 693,
-    "timeWeek": 667,
-    "timeMonth": 689,
-    "timeYear": 689,
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 690,
+    "timeDay": 694,
+    "timeWeek": 666,
+    "timeMonth": 690,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2021-01-02": 119
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3825,
-    "timeDay": 3531,
-    "timeWeek": 3680,
-    "timeMonth": 3825,
-    "timeYear": 3825,
+    "time": 3842,
+    "timeDay": 4369,
+    "timeWeek": 3665,
+    "timeMonth": 3842,
+    "timeYear": 3842,
     "dailyMinutesDown": {}
   }
 ]
