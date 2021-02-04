@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2042,
-    "timeDay": 2006,
-    "timeWeek": 2297,
-    "timeMonth": 2053,
-    "timeYear": 2042,
+    "time": 2065,
+    "timeDay": 3023,
+    "timeWeek": 2377,
+    "timeMonth": 2082,
+    "timeYear": 2065,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1574,
-    "timeDay": 949,
-    "timeWeek": 1196,
-    "timeMonth": 1517,
-    "timeYear": 1574,
+    "time": 1560,
+    "timeDay": 1006,
+    "timeWeek": 1199,
+    "timeMonth": 1506,
+    "timeYear": 1560,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 895,
-    "timeDay": 725,
-    "timeWeek": 784,
-    "timeMonth": 918,
-    "timeYear": 895,
+    "time": 896,
+    "timeDay": 953,
+    "timeWeek": 811,
+    "timeMonth": 921,
+    "timeYear": 896,
     "dailyMinutesDown": {
       "2021-01-02": 41
     }
@@ -61,16 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/cis.intern.tivents.de",
     "slug": "check-in-api",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.74%",
-    "time": 689,
-    "timeDay": 566,
-    "timeWeek": 664,
-    "timeMonth": 695,
-    "timeYear": 689,
+    "uptimeYear": "99.75%",
+    "time": 688,
+    "timeDay": 644,
+    "timeWeek": 661,
+    "timeMonth": 693,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2021-01-02": 119
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3833,
-    "timeDay": 3541,
-    "timeWeek": 3877,
-    "timeMonth": 3706,
-    "timeYear": 3833,
+    "time": 3796,
+    "timeDay": 2530,
+    "timeWeek": 3633,
+    "timeMonth": 3661,
+    "timeYear": 3796,
     "dailyMinutesDown": {}
   }
 ]
