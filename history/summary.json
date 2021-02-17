@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2128,
-    "timeDay": 1767,
-    "timeWeek": 2085,
-    "timeMonth": 2228,
-    "timeYear": 2128,
+    "time": 2133,
+    "timeDay": 2437,
+    "timeWeek": 2174,
+    "timeMonth": 2239,
+    "timeYear": 2133,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1508,
-    "timeDay": 1349,
-    "timeWeek": 1339,
+    "time": 1507,
+    "timeDay": 1424,
+    "timeWeek": 1298,
     "timeMonth": 1478,
-    "timeYear": 1508,
+    "timeYear": 1507,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 865,
-    "timeDay": 757,
+    "time": 863,
+    "timeDay": 756,
     "timeWeek": 755,
-    "timeMonth": 898,
-    "timeYear": 865,
+    "timeMonth": 896,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2021-01-02": 41
     }
@@ -61,16 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/cis.intern.tivents.de",
     "slug": "check-in-api",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
-    "time": 710,
-    "timeDay": 664,
-    "timeWeek": 661,
-    "timeMonth": 737,
-    "timeYear": 710,
+    "uptimeYear": "99.82%",
+    "time": 708,
+    "timeDay": 638,
+    "timeWeek": 657,
+    "timeMonth": 735,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2021-01-02": 119
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3726,
-    "timeDay": 3511,
-    "timeWeek": 3363,
-    "timeMonth": 3700,
-    "timeYear": 3726,
+    "time": 3719,
+    "timeDay": 3396,
+    "timeWeek": 3327,
+    "timeMonth": 3689,
+    "timeYear": 3719,
     "dailyMinutesDown": {}
   }
 ]
