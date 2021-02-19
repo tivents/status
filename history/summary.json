@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2141,
-    "timeDay": 2574,
-    "timeWeek": 2275,
-    "timeMonth": 2255,
-    "timeYear": 2141,
+    "time": 2146,
+    "timeDay": 2415,
+    "timeWeek": 2269,
+    "timeMonth": 2272,
+    "timeYear": 2146,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1550,
-    "timeDay": 3926,
-    "timeWeek": 1667,
-    "timeMonth": 1553,
-    "timeYear": 1550,
+    "time": 1539,
+    "timeDay": 932,
+    "timeWeek": 1600,
+    "timeMonth": 1398,
+    "timeYear": 1539,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 901,
-    "timeDay": 2918,
+    "time": 899,
+    "timeDay": 803,
     "timeWeek": 1061,
-    "timeMonth": 963,
-    "timeYear": 901,
+    "timeMonth": 856,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2021-01-02": 41
     }
@@ -61,16 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/cis.intern.tivents.de",
     "slug": "check-in-api",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 705,
-    "timeDay": 546,
-    "timeWeek": 652,
-    "timeMonth": 725,
-    "timeYear": 705,
+    "uptimeYear": "99.83%",
+    "time": 702,
+    "timeDay": 547,
+    "timeWeek": 650,
+    "timeMonth": 722,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2021-01-02": 119
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3722,
-    "timeDay": 3843,
-    "timeWeek": 3359,
-    "timeMonth": 3695,
-    "timeYear": 3722,
+    "time": 3719,
+    "timeDay": 3555,
+    "timeWeek": 3595,
+    "timeMonth": 3634,
+    "timeYear": 3719,
     "dailyMinutesDown": {}
   }
 ]
