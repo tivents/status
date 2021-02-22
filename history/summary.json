@@ -60,9 +60,9 @@
     "url": "https://cis.intern.tivents.de/tests/v1",
     "icon": "https://favicons.githubusercontent.com/cis.intern.tivents.de",
     "slug": "check-in-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
@@ -72,6 +72,7 @@
     "timeMonth": 698,
     "timeYear": 697,
     "dailyMinutesDown": {
+      "2021-02-22": 0,
       "2021-01-02": 119
     }
   },
