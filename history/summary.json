@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2142,
-    "timeDay": 1863,
-    "timeWeek": 2153,
-    "timeMonth": 2274,
-    "timeYear": 2142,
+    "time": 2151,
+    "timeDay": 2672,
+    "timeWeek": 2275,
+    "timeMonth": 2301,
+    "timeYear": 2151,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1535,
-    "timeDay": 1475,
-    "timeWeek": 1691,
-    "timeMonth": 1394,
+    "timeDay": 1484,
+    "timeWeek": 1710,
+    "timeMonth": 1393,
     "timeYear": 1535,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 896,
-    "timeDay": 808,
-    "timeWeek": 1094,
-    "timeMonth": 856,
-    "timeYear": 896,
+    "time": 895,
+    "timeDay": 825,
+    "timeWeek": 1096,
+    "timeMonth": 857,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2021-01-02": 41
     }
@@ -61,16 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/cis.intern.tivents.de",
     "slug": "check-in-api",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
-    "time": 699,
-    "timeDay": 580,
-    "timeWeek": 608,
-    "timeMonth": 708,
-    "timeYear": 699,
+    "uptimeYear": "99.84%",
+    "time": 697,
+    "timeDay": 620,
+    "timeWeek": 602,
+    "timeMonth": 698,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2021-01-02": 119
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3671,
-    "timeDay": 2997,
-    "timeWeek": 3248,
-    "timeMonth": 3530,
-    "timeYear": 3671,
+    "time": 3679,
+    "timeDay": 4089,
+    "timeWeek": 3336,
+    "timeMonth": 3559,
+    "timeYear": 3679,
     "dailyMinutesDown": {}
   }
 ]
