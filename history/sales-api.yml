@@ -1,7 +1,7 @@
 url: https://salma.tivents.systems/tests/v1
-status: down
-code: 502
-responseTime: 5866
-lastUpdated: 2021-02-24T05:45:32.268Z
+status: up
+code: 200
+responseTime: 869
+lastUpdated: 2021-02-24T05:52:32.269Z
 startTime: Sat Jan 02 2021 09:58:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
