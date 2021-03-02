@@ -22,18 +22,20 @@
     "url": "https://tivents.pro",
     "icon": "https://favicons.githubusercontent.com/tivents.pro",
     "slug": "b2-b-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1531,
-    "timeDay": 1516,
-    "timeWeek": 1462,
-    "timeMonth": 1446,
-    "timeYear": 1531,
-    "dailyMinutesDown": {}
+    "time": 1516,
+    "timeDay": 1026,
+    "timeWeek": 1347,
+    "timeMonth": 1415,
+    "timeYear": 1516,
+    "dailyMinutesDown": {
+      "2021-03-02": 0
+    }
   },
   {
     "name": "Sales API",
