@@ -22,19 +22,19 @@
     "url": "https://tivents.pro",
     "icon": "https://favicons.githubusercontent.com/tivents.pro",
     "slug": "b2-b-shop",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1516,
-    "timeDay": 1026,
-    "timeWeek": 1347,
-    "timeMonth": 1415,
+    "timeDay": 1191,
+    "timeWeek": 1366,
+    "timeMonth": 1418,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2021-03-02": 0
+      "2021-03-02": 7
     }
   },
   {
