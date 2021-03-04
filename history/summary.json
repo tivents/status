@@ -86,18 +86,19 @@
     "url": "https://tivents.info",
     "icon": "https://favicons.githubusercontent.com/tivents.info",
     "slug": "info-seite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "97.73%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 3661,
-    "timeDay": 3932,
-    "timeWeek": 3634,
-    "timeMonth": 3497,
-    "timeYear": 3661,
+    "time": 3656,
+    "timeDay": 3736,
+    "timeWeek": 3602,
+    "timeMonth": 3492,
+    "timeYear": 3656,
     "dailyMinutesDown": {
+      "2021-03-04": 0,
       "2021-03-03": 33
     }
   }
