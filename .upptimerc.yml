@@ -38,7 +38,6 @@ status-website:
       href: https://tivents.de
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  css: "body { opacity: 0.5 }"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
